@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos DAW</title>
+</head>
+<body>
+    <header>
+        <h1>Eventos DAW</h1>
+        <p>Descubre nuestros próximos eventos tecnológicos. venga vamos!</p>
+    </header>
+
+    <main>
+        <h2>Bienvenido</h2>
+        <p>Consulta el programa de actividades y participa en nuestros eventos.</p>
+    </main>
+</body>
+</html>
+```
