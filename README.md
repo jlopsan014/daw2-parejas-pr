@@ -1,1 +1,1 @@
-# Jornadas de Informática
+# Jornadas de deporte
