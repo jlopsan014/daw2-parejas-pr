@@ -1,1 +1,1 @@
-# Jornadas de Informática
+#Jornada laboral
